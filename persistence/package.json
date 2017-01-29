@@ -1,0 +1,10 @@
+{
+  "name": "persistence",
+  "version": "0.0.0",
+  "main": "src/persistence.js",
+  "files": ["src/"],
+  "dependencies": {
+    "sequelize": "latest",
+    "sqlite3": "latest"
+  }
+}
